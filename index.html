@@ -9,8 +9,25 @@
         <link rel="stylesheet" href="assets/css/src/app.css">
     </head>
     <body>
-<p>First name: <strong data-bind="text: firstName">todo</strong></p>
-<p>Last name: <strong data-bind="text: lastName">todo</strong></p>
+      <div class="app" id="map-app">
+        <div class="map__container">
+          <div class="map__sidebar">
+<!--             <select name="brewType" id="brewType" data-bind="brewTypes">
+              <option value="" data-bind="text: display, attr: {value: type}"></option>
+            </select> -->
+            <ul class="map__sidebar-list" data-bind="foreach: locations">
+              <li class="map__sidebar-list-item">
+                <button class="map__sidebar-list-button" data-bind="text: name"></button>
+              </li>
+            </ul>
+          </div>
+          <div class="map" id="map">
+            
+          </div>
+        </div>
+      </div>
       <script src="assets/js/src/app.js"></script>
     </body>
 </html>
+
+

@@ -10,6 +10,7 @@ let plumber = require('gulp-plumber');
 let vinylSourceStream = require('vinyl-source-stream');
 let fs = require('fs');
 let del = require('del');
+let notify = require('gulp-notify');
 
 gulp.task('css-compile', () => {
   return gulp.src('./assets/sass/*.sass')
