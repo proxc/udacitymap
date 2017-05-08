@@ -1,3 +1,5 @@
+*:before, *:after, *
+  box-sizing: border-box
 .app
   width: 100%
   max-width: 960px
@@ -11,6 +13,94 @@
 
   &__container
     width: 100%
-    height: 70vh
+    height: 85vh
+    display: flex
+    position: relative
+
+
+  &__sidebar
+    position: relative
+    background-color: #111111
+    flex-basis: 240px
+    height: 100%
+    overflow: hidden
+
+
+  &__sidebar-filter
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 30px
+
+  &__sidebar-list
+    height: 100%
+    list-style: none
+    overflow-y: scroll
     padding:
-      top: 15vh
+      left: 10px
+      right: 10px
+      top: 40px
+      bottom: 20px
+    margin:
+      left: 0
+      right: 0
+      top: 0
+      bottom: 0
+
+  &__sidebar-list-item
+    margin:
+      bottom: 5px
+
+  &__sidebar-list-button
+    width: 100%
+    padding:
+      top: 5px
+      bottom: 5px
+      left: 5px
+      right: 5px
+    border:
+      radius: 0
+      width: 0
+
+.infoBox
+  max-width: 320px
+  display: flex
+  flex-wrap: wrap
+
+  &__image-container
+    flex-basis: 90px
+    margin:
+      bottom: 10px
+  &__image
+    width: 100%
+    height: auto
+  &__name
+    flex-basis: calc(100% - 95px)
+    font-size: 24px
+    margin:
+      bottom: 10px
+      left: 5px
+
+
+  &__description
+    flex-basis: 100%
+    margin:
+      bottom: 10px
+
+  &__contact
+    margin:
+      bottom: 10px
+
+  &__contact-links
+    flex-basis: 100%
+    display: flex
+    margin:
+      bottom: 10px
+  &__phone
+   margin:
+     right: 5px
+
+  &__extras-line
+    margin:
+      bottom: 5px

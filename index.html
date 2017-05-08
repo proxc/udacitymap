@@ -10,24 +10,25 @@
     </head>
     <body>
       <div class="app" id="map-app">
+        <div class="title"><h1 data-bind="text: title"></h1></div>
         <div class="map__container">
           <div class="map__sidebar">
-<!--             <select name="brewType" id="brewType" data-bind="brewTypes">
-              <option value="" data-bind="text: display, attr: {value: type}"></option>
-            </select> -->
-            <ul class="map__sidebar-list" data-bind="foreach: locations">
+            <select class="map__sidebar-filter" name="brewType" id="brewType" data-bind="foreach: brewTypes, event:{ change: brewTypeChange}">
+              <option value="" data-bind="text: locationTypeDisplay, attr: {value: locactionType}, "></option>
+            </select>
+            <ul class="map__sidebar-list" data-bind="foreach: displayedLocations">
               <li class="map__sidebar-list-item">
-                <button class="map__sidebar-list-button" data-bind="text: name"></button>
+                <button class="map__sidebar-list-button" data-bind="text: brewery.name, click: $parent.brewSelected"></button>
               </li>
             </ul>
           </div>
           <div class="map" id="map">
-            
           </div>
         </div>
+      </div>
+      <div>
+        Data provided by <a href="http://www.brewerydb.com/developers">BreweryDB</a>
       </div>
       <script src="assets/js/src/app.js"></script>
     </body>
 </html>
-
-

@@ -1,3 +1,6 @@
+*:before, *:after, * {
+  box-sizing: border-box; }
+
 .app {
   width: 100%;
   max-width: 960px;
@@ -9,5 +12,69 @@
   height: 100%; }
   .map__container {
     width: 100%;
-    height: 70vh;
-    padding-top: 15vh; }
+    height: 85vh;
+    display: flex;
+    position: relative; }
+  .map__sidebar {
+    position: relative;
+    background-color: #111111;
+    flex-basis: 240px;
+    height: 100%;
+    overflow: hidden; }
+  .map__sidebar-filter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30px; }
+  .map__sidebar-list {
+    height: 100%;
+    list-style: none;
+    overflow-y: scroll;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0; }
+  .map__sidebar-list-item {
+    margin-bottom: 5px; }
+  .map__sidebar-list-button {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 0;
+    border-width: 0; }
+
+.infoBox {
+  max-width: 320px;
+  display: flex;
+  flex-wrap: wrap; }
+  .infoBox__image-container {
+    flex-basis: 90px;
+    margin-bottom: 10px; }
+  .infoBox__image {
+    width: 100%;
+    height: auto; }
+  .infoBox__name {
+    flex-basis: calc(100% - 95px);
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-left: 5px; }
+  .infoBox__description {
+    flex-basis: 100%;
+    margin-bottom: 10px; }
+  .infoBox__contact {
+    margin-bottom: 10px; }
+  .infoBox__contact-links {
+    flex-basis: 100%;
+    display: flex;
+    margin-bottom: 10px; }
+  .infoBox__phone {
+    margin-right: 5px; }
+  .infoBox__extras-line {
+    margin-bottom: 5px; }
