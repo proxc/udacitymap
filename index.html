@@ -6,22 +6,25 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="assets/css/src/app.css">
+        <link rel="stylesheet" href="assets/css/dist/app.min.css">
     </head>
     <body>
       <div class="app" id="map-app">
         <div class="title"><h1 data-bind="text: title"></h1></div>
         <div class="map__container">
-          <div class="map__sidebar">
-            <select class="map__sidebar-filter" name="brewType" id="brewType" data-bind="foreach: brewTypes, event:{ change: brewTypeChange}">
-              <option value="" data-bind="text: locationTypeDisplay, attr: {value: locactionType}, "></option>
-            </select>
+          <div class="map__sidebar" data-bind="css: { '--open': toggleOpen}">
+            <div class="map__sidebar-filter-container">
+              <select class="map__sidebar-filter" name="brewType" id="brewType" data-bind="foreach: brewTypes, event:{ change: brewTypeChange}">
+                <option value="" data-bind="text: locationTypeDisplay, attr: {value: locactionType}, "></option>
+              </select>
+            </div>
             <ul class="map__sidebar-list" data-bind="foreach: displayedLocations">
               <li class="map__sidebar-list-item">
                 <button class="map__sidebar-list-button" data-bind="text: brewery.name, click: $parent.brewSelected"></button>
               </li>
             </ul>
           </div>
+          <button type="button" class="map__sidebar-list-toggle" data-bind="click: toggleMenu, css: { '--open': toggleOpen}">&#9655;</button>
           <div class="map" id="map">
           </div>
         </div>
@@ -29,6 +32,8 @@
       <div>
         Data provided by <a href="http://www.brewerydb.com/developers">BreweryDB</a>
       </div>
-      <script src="assets/js/src/app.js"></script>
+      <script src="assets/js/dist/app.min.js"></script>
+      <link href="https://fonts.googleapis.com/css?family=Ewert|Work+Sans" rel="stylesheet">
+
     </body>
 </html>

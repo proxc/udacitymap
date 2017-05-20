@@ -2,6 +2,7 @@
 
 let gulp = require('gulp');
 let browserify = require('browserify');
+let babelify = require('babelify');
 let minifycss = require('gulp-uglifycss');
 let uglify = require('gulp-uglify');
 let rename = require('gulp-rename');
@@ -20,8 +21,20 @@ gulp.task('css-compile', () => {
     .pipe(gulp.dest('./assets/css/src'));
 });
 
+gulp.task('css-minify', () => {
+  return gulp.src('./assets/css/src/app.css')
+    .pipe(plumber())
+    .pipe(minifycss())
+    .pipe(rename( (path) => {
+      path.extname = ".min.css"
+    } ))
+    .pipe(plumber.stop())
+    .pipe(gulp.dest('./assets/css/dist'))
+});
+
 gulp.task('js-compile', () => {
   return browserify('./assets/js/app.js')
+    .transform("babelify", {presets: ["es2015"]})
     .bundle()
     .on( 'error', function ( err ) {
       notify().write( err );
@@ -29,6 +42,17 @@ gulp.task('js-compile', () => {
     })
     .pipe(vinylSourceStream( 'app.js' ))
     .pipe( gulp.dest('./assets/js/src'))
+});
+
+gulp.task('js-minify', () => {
+  return gulp.src('./assets/js/src/app.js')
+    .pipe(plumber())
+    .pipe(uglify())
+    .pipe(rename( (path) => {
+      path.extname = ".min.js"
+    } ))
+    .pipe(plumber.stop())
+    .pipe(gulp.dest('./assets/js/dist'))
 });
 
 gulp.task('watch', () => {
