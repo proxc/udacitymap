@@ -179,7 +179,7 @@ function AppViewModel(googleMap) {
   appView.getData = function() {
 
     //to get by the CORS on localhost and same some api calls use a cached dataset
-    let promise = $.getJSON('http://localhost/map/assets/js/testData.json');
+    let promise = $.getJSON('/assets/js/testData.json');
 
     promise.done(function(data) {
       return appView.processData(data);

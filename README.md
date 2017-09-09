@@ -2,6 +2,13 @@
 
 ## Run Requirements
 open index.html in a web browser, all assets should be precompiled already
+To run a websever from the root of the site run
+Python 3:
+`python -m http.server 8080`
+
+or
+Python 2:
+`python -m SimpleHTTPServer 8080`
 
 ## Build Requirements
 1. nodejs
