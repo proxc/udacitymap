@@ -1,7 +1,7 @@
 //Create a pp that shows the local breweries of Nevada
 // setting initial varibles
 window.ko = require('knockout');
-let jQuery = require('jquery');
+require('jquery');
 const KEY = 'AIzaSyAvh8ouG5Ow6mon95VUSeFFWMBAPrFAD1U';
 const APP_ROOT_ID = 'map-app';
 const APP_ROOT = document.getElementById(APP_ROOT_ID);

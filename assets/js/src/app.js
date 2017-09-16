@@ -4,7 +4,7 @@
 //Create a pp that shows the local breweries of Nevada
 // setting initial varibles
 window.ko = require('knockout');
-var $ = require('jquery');
+require('jquery');
 var KEY = 'AIzaSyAvh8ouG5Ow6mon95VUSeFFWMBAPrFAD1U';
 var APP_ROOT_ID = 'map-app';
 var APP_ROOT = document.getElementById(APP_ROOT_ID);
@@ -163,7 +163,7 @@ function AppViewModel(googleMap) {
   appView.getData = function () {
 
     //to get by the CORS on localhost and same some api calls use a cached dataset
-    var promise = $.getJSON('/assets/js/testData.json');
+    var promise = jQuery.getJSON('/assets/js/testData.json');
 
     promise.done(function (data) {
       return appView.processData(data);
@@ -235,7 +235,7 @@ function AppViewModel(googleMap) {
   };
 
   appView.init();
-};
+}
 
 APP_ROOT.append(mapTag);
 
