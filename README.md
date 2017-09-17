@@ -1,4 +1,5 @@
 # Map
+If your browser denies cross origin request from localhost the map will load a local saved version of the request.
 
 ## Run Requirements
 open index.html in a web browser, all assets should be precompiled already

@@ -1,7 +1,7 @@
 {
 "currentPage": 1,
 "numberOfPages": 2,
-"totalResults": 51,
+"totalResults": 54,
 "data": [
 {
 "id": "fQSwqJ",
@@ -44,7 +44,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:46",
-"updateDate": "2015-12-22 14:39:59"
+"updateDate": "2017-06-28 13:39:08",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -96,7 +98,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:46",
-"updateDate": "2015-12-22 14:39:59"
+"updateDate": "2017-06-28 13:39:08",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -151,7 +155,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:09",
-"updateDate": "2016-06-17 14:36:33"
+"updateDate": "2016-06-17 14:36:33",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -205,7 +211,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2016-06-21 20:19:14",
-"updateDate": "2016-06-23 18:12:18"
+"updateDate": "2016-06-23 18:12:18",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -246,7 +254,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:01",
-"updateDate": "2015-12-22 14:51:26"
+"updateDate": "2015-12-22 14:51:26",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -288,7 +298,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:06",
-"updateDate": "2015-12-22 15:25:18"
+"updateDate": "2015-12-22 15:25:18",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -340,7 +352,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:59",
-"updateDate": "2015-12-22 15:14:59"
+"updateDate": "2017-07-18 18:04:12",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -383,7 +397,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:53",
-"updateDate": "2015-12-22 15:18:52"
+"updateDate": "2015-12-22 15:18:52",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -436,7 +452,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:46",
-"updateDate": "2015-12-22 14:39:46"
+"updateDate": "2015-12-22 14:39:46",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -478,7 +496,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:51",
-"updateDate": "2015-12-22 15:16:48"
+"updateDate": "2015-12-22 15:16:48",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -520,7 +540,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:10",
-"updateDate": "2015-12-22 15:23:33"
+"updateDate": "2015-12-22 15:23:33",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -561,7 +583,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2013-08-07 15:17:02",
-"updateDate": "2015-12-22 15:46:21"
+"updateDate": "2015-12-22 15:46:21",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -615,7 +639,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-02-12 20:25:04",
-"updateDate": "2015-12-22 16:04:49"
+"updateDate": "2015-12-22 16:04:49",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -666,7 +692,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2016-08-23 19:05:45",
-"updateDate": "2016-08-23 19:05:47"
+"updateDate": "2016-08-23 19:05:47",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -709,7 +737,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:07",
-"updateDate": "2015-12-22 15:25:45"
+"updateDate": "2015-12-22 15:25:45",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -763,7 +793,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:49",
-"updateDate": "2015-12-22 15:03:32"
+"updateDate": "2015-12-22 15:03:32",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -781,19 +813,19 @@
 "region": "Nevada",
 "postalCode": "89109",
 "phone": "1-702-730-7438",
-"latitude": 36.120085,
-"longitude": -115.166039,
+"latitude": 36.128561,
+"longitude": -115.1711298,
 "isPrimary": "Y",
 "inPlanning": "N",
-"isClosed": "N",
-"openToPublic": "Y",
+"isClosed": "Y",
+"openToPublic": "N",
 "locationType": "micro",
 "locationTypeDisplay": "Micro Brewery",
 "countryIsoCode": "US",
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:02",
-"updateDate": "2014-07-23 19:11:34",
+"updateDate": "2017-06-16 13:51:19",
 "breweryId": "rvzpvE",
 "brewery": {
 "id": "rvzpvE",
@@ -804,7 +836,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:02",
-"updateDate": "2015-12-22 14:52:39"
+"updateDate": "2015-12-22 14:52:39",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -858,7 +892,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:48",
-"updateDate": "2015-12-22 15:17:53"
+"updateDate": "2015-12-22 15:17:53",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -880,9 +916,9 @@
 "phone": "7024634199",
 "website": "http://badbeatbrewing.com",
 "hoursOfOperation": "Thu:  4:30pm - 11:00pm\nFri:  4:30pm - 12:00am\nSat:  12:00pm - 12:00am\nSun:  12:00pm - 11:00pm\n\n",
-"latitude": 36.0528443,
-"longitude": -115.0190679,
-"isPrimary": "N",
+"latitude": 36.0528116,
+"longitude": -115.0190606,
+"isPrimary": "Y",
 "inPlanning": "N",
 "isClosed": "N",
 "openToPublic": "Y",
@@ -892,7 +928,7 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-04-24 01:22:46",
-"updateDate": "2016-09-20 15:38:51",
+"updateDate": "2017-08-22 15:28:55",
 "breweryId": "J9FqiB",
 "brewery": {
 "id": "J9FqiB",
@@ -912,7 +948,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-04-24 01:22:45",
-"updateDate": "2015-12-22 16:07:58"
+"updateDate": "2015-12-22 16:07:58",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -953,7 +991,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:47",
-"updateDate": "2015-12-22 14:40:13"
+"updateDate": "2015-12-22 14:40:13",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -999,7 +1039,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2014-07-10 13:10:41",
-"updateDate": "2016-06-27 11:50:27"
+"updateDate": "2016-06-27 11:50:27",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1051,7 +1093,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-06-09 17:19:16",
-"updateDate": "2015-12-22 16:10:14"
+"updateDate": "2015-12-22 16:10:14",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1089,7 +1133,7 @@
 "id": "hCuHyc",
 "name": "IMBĪB Custom Brews",
 "nameShortDisplay": "IMBĪB",
-"description": "IMBĪB Custom Brews is a brewery experience like no other. Imbibe means to receive into the mind and retain and we invite you to imbibe our beer by joining us in our taproom for tasters, pints, or growlers. We specialize in old-world barrel aged beers, but also have a variety of malty, hoppy, and easy drinking brews to meet the expectations of every beer lover. We want to engage our customers on a deeper level which is why we offer a membership club, custom recipe project, and educational experiences. From sensory tasting to brewing basics, we provide opportunities to learn more about the beer you are imbibing. Although we don’t serve food, we host local food trucks and offer several excellent food delivery options so you can enjoy your brew with food. You can imbibe in our taproom Thur-Tue.",
+"description": "IMBĪB Custom Brews is a brewery experience like no other. Imbibe means to receive into the mind and retain and we invite you to imbibe our beer by joining us in our taproom for tasters, pints, or growlers. We specialize in old-world barrel aged beers, but also have a variety of malty, hoppy, and easy drinking brews to meet the expectations of every beer lover. We want to engage our customers on a deeper level which is why we offer a membership club, custom recipe project, and educational experiences.",
 "website": "http://www.imbibreno.com",
 "established": "2015",
 "isOrganic": "N",
@@ -1103,7 +1147,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2016-06-24 19:50:35",
-"updateDate": "2016-07-14 19:43:49"
+"updateDate": "2017-06-20 18:01:10",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1154,7 +1200,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:47",
-"updateDate": "2015-12-22 15:14:14"
+"updateDate": "2015-12-22 15:14:14",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1207,7 +1255,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:45",
-"updateDate": "2015-12-22 15:15:52"
+"updateDate": "2015-12-22 15:15:52",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1261,7 +1311,62 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:09",
-"updateDate": "2016-06-27 12:20:00"
+"updateDate": "2016-06-27 12:20:00",
+"isMassOwned": "N",
+"brandClassification": "craft"
+},
+"country": {
+"isoCode": "US",
+"name": "UNITED STATES",
+"displayName": "United States",
+"isoThree": "USA",
+"numberCode": 840,
+"createDate": "2012-01-03 02:41:33"
+}
+},
+{
+"id": "1bDrKm",
+"name": "Main Brewery",
+"streetAddress": "380 S Rock Blvd",
+"locality": "Sparks",
+"region": "Nevada",
+"postalCode": "89431",
+"phone": "(775) 331-2739",
+"website": "http://revisionbrewing.com/",
+"latitude": 39.531165,
+"longitude": -119.765523,
+"isPrimary": "Y",
+"inPlanning": "N",
+"isClosed": "N",
+"openToPublic": "Y",
+"locationType": "micro",
+"locationTypeDisplay": "Micro Brewery",
+"countryIsoCode": "US",
+"status": "verified",
+"statusDisplay": "Verified",
+"createDate": "2017-05-11 19:11:14",
+"updateDate": "2017-05-11 19:11:14",
+"breweryId": "VIpYwk",
+"brewery": {
+"id": "VIpYwk",
+"name": "Revision Brewing Company",
+"nameShortDisplay": "Revision",
+"description": "Revision Brewing was founded on the principal of having an evolutionary spirit.  Add to this our respect for craft beer and the result is the quality you get with a Revision Brewing Company beer.\r\n\r\n“Respect craft beer” refers to a genuine appreciation for all aspects of the craft beer culture:  passion, process, ingredients, people, and of course the beer itself.",
+"website": "http://revisionbrewing.com/",
+"isOrganic": "N",
+"images": {
+"icon": "https://s3.amazonaws.com/brewerydbapi/brewery/VIpYwk/upload_Fshymo-icon.png",
+"medium": "https://s3.amazonaws.com/brewerydbapi/brewery/VIpYwk/upload_Fshymo-medium.png",
+"large": "https://s3.amazonaws.com/brewerydbapi/brewery/VIpYwk/upload_Fshymo-large.png",
+"squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/VIpYwk/upload_Fshymo-squareMedium.png",
+"squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/VIpYwk/upload_Fshymo-squareLarge.png"
+},
+"status": "verified",
+"statusDisplay": "Verified",
+"createDate": "2017-05-07 12:25:19",
+"updateDate": "2017-05-07 12:26:02",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1314,7 +1419,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-06-09 17:02:05",
-"updateDate": "2015-12-22 16:10:13"
+"updateDate": "2015-12-22 16:10:13",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1355,7 +1462,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:45",
-"updateDate": "2015-12-22 14:39:15"
+"updateDate": "2015-12-22 14:39:15",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1372,19 +1481,19 @@
 "locality": "Las Vegas",
 "region": "Nevada",
 "website": "http://plan9brewing.com/",
-"latitude": 36.171915,
-"longitude": -115.139974,
+"latitude": 36.1699412,
+"longitude": -115.1398296,
 "isPrimary": "Y",
 "inPlanning": "N",
 "isClosed": "N",
-"openToPublic": "Y",
+"openToPublic": "N",
 "locationType": "micro",
 "locationTypeDisplay": "Micro Brewery",
 "countryIsoCode": "US",
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:06",
-"updateDate": "2014-07-23 19:11:34",
+"updateDate": "2017-08-03 14:43:47",
 "breweryId": "d3HTwi",
 "brewery": {
 "id": "d3HTwi",
@@ -1396,7 +1505,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:05",
-"updateDate": "2015-12-22 15:25:09"
+"updateDate": "2015-12-22 15:25:09",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1415,19 +1526,19 @@
 "region": "Nevada",
 "postalCode": "89117",
 "phone": "702.BREWPUB",
-"latitude": 36.1297818,
-"longitude": -115.2746743,
+"latitude": 36.1298489,
+"longitude": -115.2746353,
 "isPrimary": "Y",
 "inPlanning": "N",
-"isClosed": "N",
-"openToPublic": "Y",
+"isClosed": "Y",
+"openToPublic": "N",
 "locationType": "brewpub",
 "locationTypeDisplay": "Brewpub",
 "countryIsoCode": "US",
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-03-17 20:30:57",
-"updateDate": "2015-03-17 20:30:57",
+"updateDate": "2017-08-10 14:03:25",
 "breweryId": "hDO4jK",
 "brewery": {
 "id": "hDO4jK",
@@ -1447,7 +1558,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-03-17 17:22:08",
-"updateDate": "2015-12-22 16:06:07"
+"updateDate": "2015-12-22 16:06:07",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1490,7 +1603,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:13",
-"updateDate": "2015-12-22 15:23:03"
+"updateDate": "2015-12-22 15:23:03",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1541,7 +1656,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-09-16 15:05:12",
-"updateDate": "2015-12-22 16:16:35"
+"updateDate": "2015-12-22 16:16:35",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1582,7 +1699,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:53",
-"updateDate": "2015-12-22 15:18:43"
+"updateDate": "2015-12-22 15:18:43",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1631,7 +1750,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-08-03 00:28:31",
-"updateDate": "2015-12-22 16:14:24"
+"updateDate": "2015-12-22 16:14:24",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1679,7 +1800,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-08-03 00:28:31",
-"updateDate": "2015-12-22 16:14:24"
+"updateDate": "2015-12-22 16:14:24",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1732,7 +1855,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:08",
-"updateDate": "2015-12-22 15:08:48"
+"updateDate": "2015-12-22 15:08:48",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1783,7 +1908,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:42:08",
-"updateDate": "2015-12-22 15:26:15"
+"updateDate": "2015-12-22 15:26:15",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1834,7 +1961,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2014-07-25 14:38:59",
-"updateDate": "2016-06-23 18:48:19"
+"updateDate": "2016-06-23 18:48:19",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1851,19 +1980,19 @@
 "locality": "Las Vegas",
 "region": "Nevada",
 "phone": "702-727-3777",
-"latitude": 36.171915,
-"longitude": -115.139974,
+"latitude": 36.1699412,
+"longitude": -115.1398296,
 "isPrimary": "Y",
 "inPlanning": "N",
-"isClosed": "N",
-"openToPublic": "Y",
+"isClosed": "Y",
+"openToPublic": "N",
 "locationType": "micro",
 "locationTypeDisplay": "Micro Brewery",
 "countryIsoCode": "US",
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:45",
-"updateDate": "2014-07-23 19:11:34",
+"updateDate": "2017-08-03 14:24:26",
 "breweryId": "hyO6mj",
 "brewery": {
 "id": "hyO6mj",
@@ -1873,7 +2002,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:45",
-"updateDate": "2015-12-22 15:16:12"
+"updateDate": "2015-12-22 15:16:12",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1917,7 +2048,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2013-11-04 18:55:07",
-"updateDate": "2015-12-22 15:48:14"
+"updateDate": "2015-12-22 15:48:14",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -1969,7 +2102,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:50",
-"updateDate": "2015-12-22 14:43:14"
+"updateDate": "2015-12-22 14:43:14",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -2017,7 +2152,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2015-09-28 15:51:27",
-"updateDate": "2015-12-22 16:16:55"
+"updateDate": "2015-12-22 16:16:55",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -2069,7 +2206,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:48",
-"updateDate": "2015-12-22 15:07:10"
+"updateDate": "2015-12-22 15:07:10",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -2119,7 +2258,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2014-07-25 19:28:15",
-"updateDate": "2015-12-22 15:57:05"
+"updateDate": "2015-12-22 15:57:05",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -2169,7 +2310,111 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2016-05-08 02:56:54",
-"updateDate": "2016-05-12 19:57:28"
+"updateDate": "2016-05-12 19:57:28",
+"isMassOwned": "N",
+"brandClassification": "craft"
+},
+"country": {
+"isoCode": "US",
+"name": "UNITED STATES",
+"displayName": "United States",
+"isoThree": "USA",
+"numberCode": 840,
+"createDate": "2012-01-03 02:41:33"
+}
+},
+{
+"id": "9wsPA8",
+"name": "Main Location",
+"streetAddress": "1496 Old Hot Springs Rd",
+"locality": "Carson City",
+"region": "Nevada",
+"postalCode": "89706",
+"hoursOfOperation": "Mon:  2:00pm - 9:00pm\nTue:  2:00pm - 9:00pm\nWed:  2:00pm - 9:00pm\nThu:  2:00pm - 9:00pm\nFri:  2:00pm - 10:00pm\nSat:  12:00pm - 10:00pm\nSun:  12:00pm - 8:00pm\n\n",
+"latitude": 39.1929961,
+"longitude": -119.7511224,
+"isPrimary": "Y",
+"inPlanning": "N",
+"isClosed": "N",
+"openToPublic": "Y",
+"locationType": "micro",
+"locationTypeDisplay": "Micro Brewery",
+"countryIsoCode": "US",
+"status": "verified",
+"statusDisplay": "Verified",
+"createDate": "2017-06-21 14:07:23",
+"updateDate": "2017-08-31 18:43:49",
+"breweryId": "uEOiyL",
+"brewery": {
+"id": "uEOiyL",
+"name": "Shoe Tree Brewing Co",
+"nameShortDisplay": "Shoe Tree",
+"website": "http://Shoetreebrewing.com",
+"established": "2017",
+"isOrganic": "N",
+"images": {
+"icon": "https://s3.amazonaws.com/brewerydbapi/brewery/uEOiyL/upload_H3XeG4-icon.png",
+"medium": "https://s3.amazonaws.com/brewerydbapi/brewery/uEOiyL/upload_H3XeG4-medium.png",
+"large": "https://s3.amazonaws.com/brewerydbapi/brewery/uEOiyL/upload_H3XeG4-large.png",
+"squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/uEOiyL/upload_H3XeG4-squareMedium.png",
+"squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/uEOiyL/upload_H3XeG4-squareLarge.png"
+},
+"status": "verified",
+"statusDisplay": "Verified",
+"createDate": "2017-06-21 05:17:26",
+"updateDate": "2017-06-21 14:06:35",
+"isMassOwned": "N",
+"brandClassification": "craft"
+},
+"country": {
+"isoCode": "US",
+"name": "UNITED STATES",
+"displayName": "United States",
+"isoThree": "USA",
+"numberCode": 840,
+"createDate": "2012-01-03 02:41:33"
+}
+},
+{
+"id": "UUG3lw",
+"name": "Main Location",
+"streetAddress": "325 EAST FOURTH STREET",
+"locality": "Reno",
+"region": "Nevada",
+"latitude": 39.531084,
+"longitude": -119.809555,
+"isPrimary": "Y",
+"inPlanning": "N",
+"isClosed": "N",
+"openToPublic": "Y",
+"locationType": "micro",
+"locationTypeDisplay": "Micro Brewery",
+"countryIsoCode": "US",
+"status": "verified",
+"statusDisplay": "Verified",
+"createDate": "2017-07-03 00:56:04",
+"updateDate": "2017-07-03 00:56:04",
+"breweryId": "KMOQLK",
+"brewery": {
+"id": "KMOQLK",
+"name": "The Depot",
+"nameShortDisplay": "The Depot",
+"description": "Our mission at The Depot is to share our pursuit and passion for transforming base ingredients into far more noble forms. Whether creating our spirits, beer or food, we subscribe to the theory that with care and passion, our craft offerings can be greater than the sum of their simple parts.  Reaching such lofty goals usually comes from experimentation with a foundation of quality ingredients and process knowledge.  Our production spaces were designed with this in mind, allowing our imaginations to run wild and offering endless possibilities to perfect our craft. With an eye toward local sourcing, quality, and the creation of products both traditional and innovative, we tender our goods to our neighbors near and far in the hope to bring an exceptional craft experience.",
+"website": "http://thedepotreno.com",
+"isOrganic": "N",
+"images": {
+"icon": "https://s3.amazonaws.com/brewerydbapi/brewery/KMOQLK/upload_gjzKPf-icon.png",
+"medium": "https://s3.amazonaws.com/brewerydbapi/brewery/KMOQLK/upload_gjzKPf-medium.png",
+"large": "https://s3.amazonaws.com/brewerydbapi/brewery/KMOQLK/upload_gjzKPf-large.png",
+"squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/KMOQLK/upload_gjzKPf-squareMedium.png",
+"squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/KMOQLK/upload_gjzKPf-squareLarge.png"
+},
+"status": "verified",
+"statusDisplay": "Verified",
+"createDate": "2017-06-29 14:31:11",
+"updateDate": "2017-07-03 00:54:28",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -2221,7 +2466,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:56",
-"updateDate": "2015-12-22 14:47:07"
+"updateDate": "2015-12-22 14:47:07",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",
@@ -2273,162 +2520,9 @@
 "status": "verified",
 "statusDisplay": "Verified",
 "createDate": "2012-01-03 02:41:46",
-"updateDate": "2015-12-22 14:39:59"
-},
-"country": {
-"isoCode": "US",
-"name": "UNITED STATES",
-"displayName": "United States",
-"isoThree": "USA",
-"numberCode": 840,
-"createDate": "2012-01-03 02:41:33"
-}
-},
-{
-"id": "u3uZ9B",
-"name": "Sparks",
-"streetAddress": "425 Sparks Blvd.",
-"locality": "Sparks",
-"region": "Nevada",
-"postalCode": "89434",
-"phone": "775.398.3550",
-"hoursOfOperation": "11am-12am Sunday-Thursday\n11am-1am Friday & Saturday",
-"latitude": 39.53364,
-"longitude": -119.715359,
-"isPrimary": "N",
-"inPlanning": "N",
-"isClosed": "N",
-"openToPublic": "Y",
-"locationType": "brewpub",
-"locationTypeDisplay": "Brewpub",
-"countryIsoCode": "US",
-"status": "verified",
-"statusDisplay": "Verified",
-"createDate": "2012-04-17 13:21:42",
-"updateDate": "2014-07-23 19:11:34",
-"breweryId": "CJ7aEv",
-"brewery": {
-"id": "CJ7aEv",
-"name": "BJ's Restaurant and Brewery",
-"nameShortDisplay": "BJ's Restaurant",
-"description": "To brew consistently great beer in a variety of ale and lager styles. That's really what BJ's beer is all about.\r\n\r\nAt BJ's we recognize that brewing is both an art and a science.\r\n\r\nWe also respect the vast variety of beer styles that the world has to offer - from the delicate balance of German Kolsch to the robust intensity of Russian Imperial Stout.\r\n\r\nOur Passionate and talented team of brewers strives toward one simple goal: to brew consistently great beer in a variety of ale and lager styles. That's really what BJ's beer is all about.",
-"website": "http://www.bjsrestaurants.com/",
-"established": "1978",
-"isOrganic": "N",
-"images": {
-"icon": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-icon.png",
-"medium": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-medium.png",
-"large": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-large.png",
-"squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-squareMedium.png",
-"squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-squareLarge.png"
-},
-"status": "verified",
-"statusDisplay": "Verified",
-"createDate": "2012-01-03 02:41:46",
-"updateDate": "2015-12-22 14:39:59"
-},
-"country": {
-"isoCode": "US",
-"name": "UNITED STATES",
-"displayName": "United States",
-"isoThree": "USA",
-"numberCode": 840,
-"createDate": "2012-01-03 02:41:33"
-}
-},
-{
-"id": "oPFGVt",
-"name": "Sparks",
-"streetAddress": "846 Victorian Ave",
-"locality": "Sparks",
-"region": "Nevada",
-"postalCode": "89431",
-"phone": "775-355-7711",
-"website": "http://greatbasinbrewingco.com/",
-"latitude": 39.5348301,
-"longitude": -119.7539518,
-"isPrimary": "Y",
-"inPlanning": "N",
-"isClosed": "N",
-"openToPublic": "Y",
-"locationType": "micro",
-"locationTypeDisplay": "Micro Brewery",
-"countryIsoCode": "US",
-"status": "verified",
-"statusDisplay": "Verified",
-"createDate": "2012-01-03 02:41:56",
-"updateDate": "2014-08-23 16:41:53",
-"breweryId": "ordLJI",
-"brewery": {
-"id": "ordLJI",
-"name": "Great Basin Brewing Company",
-"nameShortDisplay": "Great Basin",
-"description": "Great Basin Brewing Co. makes fresh hand-crafted beer right before your eyes using the finest American & European grains, hops & yeast. The rugged beauty and free spirit of this region have inspired the creation of the brewery and the beers that you enjoy. We invite you to celebrate our heritage with us.",
-"website": "http://greatbasinbrewingco.com/",
-"isOrganic": "N",
-"images": {
-"icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ordLJI/upload_t3u3YF-icon.png",
-"medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ordLJI/upload_t3u3YF-medium.png",
-"large": "https://s3.amazonaws.com/brewerydbapi/brewery/ordLJI/upload_t3u3YF-large.png",
-"squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/ordLJI/upload_t3u3YF-squareMedium.png",
-"squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/ordLJI/upload_t3u3YF-squareLarge.png"
-},
-"status": "verified",
-"statusDisplay": "Verified",
-"createDate": "2012-01-03 02:41:56",
-"updateDate": "2015-12-22 14:47:07"
-},
-"country": {
-"isoCode": "US",
-"name": "UNITED STATES",
-"displayName": "United States",
-"isoThree": "USA",
-"numberCode": 840,
-"createDate": "2012-01-03 02:41:33"
-}
-},
-{
-"id": "36k8gs",
-"name": "Summerlin",
-"streetAddress": "10840 West Charleston",
-"locality": "Las Vegas",
-"region": "Nevada",
-"postalCode": "89135",
-"phone": "702.853.2300",
-"hoursOfOperation": "11am-11pm Monday-Thursday\n11am-12am Friday\n10am-12am Saturday\n10am-11pm Sunday",
-"latitude": 36.159094,
-"longitude": -115.331551,
-"isPrimary": "N",
-"inPlanning": "N",
-"isClosed": "N",
-"openToPublic": "Y",
-"locationType": "brewpub",
-"locationTypeDisplay": "Brewpub",
-"countryIsoCode": "US",
-"status": "verified",
-"statusDisplay": "Verified",
-"createDate": "2012-04-17 13:21:37",
-"updateDate": "2014-07-23 19:11:34",
-"breweryId": "CJ7aEv",
-"brewery": {
-"id": "CJ7aEv",
-"name": "BJ's Restaurant and Brewery",
-"nameShortDisplay": "BJ's Restaurant",
-"description": "To brew consistently great beer in a variety of ale and lager styles. That's really what BJ's beer is all about.\r\n\r\nAt BJ's we recognize that brewing is both an art and a science.\r\n\r\nWe also respect the vast variety of beer styles that the world has to offer - from the delicate balance of German Kolsch to the robust intensity of Russian Imperial Stout.\r\n\r\nOur Passionate and talented team of brewers strives toward one simple goal: to brew consistently great beer in a variety of ale and lager styles. That's really what BJ's beer is all about.",
-"website": "http://www.bjsrestaurants.com/",
-"established": "1978",
-"isOrganic": "N",
-"images": {
-"icon": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-icon.png",
-"medium": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-medium.png",
-"large": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-large.png",
-"squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-squareMedium.png",
-"squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/CJ7aEv/upload_Z20fd8-squareLarge.png"
-},
-"status": "verified",
-"statusDisplay": "Verified",
-"createDate": "2012-01-03 02:41:46",
-"updateDate": "2015-12-22 14:39:59"
+"updateDate": "2017-06-28 13:39:08",
+"isMassOwned": "N",
+"brandClassification": "craft"
 },
 "country": {
 "isoCode": "US",

@@ -1,7 +1,6 @@
 //Create a pp that shows the local breweries of Nevada
 // setting initial varibles
 window.ko = require('knockout');
-require('jquery');
 const KEY = 'AIzaSyAvh8ouG5Ow6mon95VUSeFFWMBAPrFAD1U';
 const APP_ROOT_ID = 'map-app';
 const APP_ROOT = document.getElementById(APP_ROOT_ID);
@@ -24,7 +23,7 @@ function AppViewModel(googleMap) {
   appView.mapMarkers = [];
   appView.title = ko.observable("Wheres the beer?");
   appView.infowindow = new google.maps.InfoWindow({
-    content: 'kmclmsd'
+    content: ''
   });
   appView.toggleOpen = ko.observable(false);
 
@@ -178,13 +177,37 @@ function AppViewModel(googleMap) {
   // gets the data using jquery 
   appView.getData = function() {
 
-    //to get by the CORS on localhost and same some api calls use a cached dataset
-    let promise = jQuery.getJSON('/assets/js/testData.json');
 
+    let ajaxData = {
+      url: BREW_BASE+'/locations/?region=nevada&key='+BREW_KEY,
+      data: {
+        format: 'json'
+      },
+    };
+
+    let promise = $.ajax(ajaxData);
+
+    //get data from the api
     promise.done(function(data) {
       return appView.processData(data);
     });
+
+    //if failed try and get data from the backup data stored localy
     promise.fail(function() {
+      alert('failed to retrieve data, will try to use backup data');
+
+      let newAjaxData = {
+        url: '/assets/js/testData.json',
+      };
+
+      //get backup data
+      let backup = $.ajax(newAjaxData);
+      backup.done(function(data){
+        return appView.processData(data);
+      });
+      backup.fail(function(){
+        return false;
+      });
       return false;
     });
   };
